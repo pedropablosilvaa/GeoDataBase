@@ -1,6 +1,6 @@
 //se debe agregar columna id.
 //Copiar los headers y remplazar ";" por "    varchar,\n"
-
+//Para el ingreso, se debe cambiar las "," por ".", para que los valores muy altos dejen de estar en notacion cientifica
 
 DROP TABLE IF EXISTS casen;
 
