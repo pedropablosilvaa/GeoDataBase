@@ -13,6 +13,7 @@ library(rgdal)
 
 #------Extracción de encuesta CASEN-----#
 
+# Spatial microsimulation Chile
 
 #Conectar con dbpsql
 #clave de acceso
